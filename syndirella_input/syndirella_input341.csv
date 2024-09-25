@@ -1,0 +1,2 @@
+,smiles,hit1,hit2,shape_tanimoto1,shape_tanimoto2,compound_set,template,inchikey
+341,O=[N+]([O-])C(C(Cl)=C(Cl)Cl)=C(N1CCCCC1)N1CCCCC1,x1083_0A,x1071_0A,0.6997911071321994,0.7483443708609272,x1083_0A-x1071_0A_124-P,x1071_0A,LMONVEOEQYURAX-UHFFFAOYSA-N

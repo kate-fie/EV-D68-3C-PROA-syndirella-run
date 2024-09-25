@@ -1,0 +1,2 @@
+,smiles,hit1,hit2,shape_tanimoto1,shape_tanimoto2,compound_set,template,inchikey
+388,c1cncc(-c2nc(NCCc3ccc4c(c3)OCO4)c3ccccc3n2)c1,x1498_0A,x2021_0A,0.8028832009414534,0.7752457068797927,x1498_0A-x2021_0A_450-P,x1498_0A,AIMWDFKSQKLJEQ-UHFFFAOYSA-N
